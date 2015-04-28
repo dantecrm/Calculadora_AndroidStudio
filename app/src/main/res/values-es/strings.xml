@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CalculadoraExamen</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="lbnCalculadora">Calculadora</string>
+    <string name="menu">Revisión de calculadoras</string>
+    <string name="btnEstandar">Estándar</string>
+    <string name="btnCientifica">Científica</string>
+    <string name="estandar">Calculadora Estándar</string>
+    <string name="cientifica">Calculadora Científica</string>
+</resources>

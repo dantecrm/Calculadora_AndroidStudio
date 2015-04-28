@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MenuActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_conf"
+        android:orderInCategory="100"
+        android:title="@string/itemenuConf"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_opt1"
+        android:orderInCategory="100"
+        android:title="@string/itemenuOpt1"
+        app:showAsAction="never"/>
+</menu>

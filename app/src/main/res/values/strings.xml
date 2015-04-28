@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CalculadoraExamen</string>
+
+    <string name="hello_world">Calculadora</string>
+    <string name="action_settings">Settings</string>
+    <string name="itemenuConf">Configuración</string>
+    <string name="itemenuOpt1">Opcion1</string>
+
+    <string name="sumar">Sumar</string>
+    <string name="restar">Restar</string>
+    <string name="dividir">Dividir</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="borrar">Borrar</string>
+    <string name="punto">Punto</string>
+    <string name="igual">Igual</string>
+    <string name="potencia">Potencia</string>
+    <string name="radicacion">Radicacion</string>
+    <string name="seno">Seno</string>
+    <string name="coseno">Coseno</string>
+    <string name="tangente">Tagente</string>
+
+</resources>

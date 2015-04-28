@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+
+    <style name="lbnEstilo1">
+        <item name="android:textColor">#ffc100</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+    <style name="txtEstilo1">
+        <item name="android:color">#A4C639</item>
+        <item name="android:shadowColor">#ffe5f525</item>
+        <item name="android:background">#ffd4f54e</item>
+
+    </style>
+    <style name="btnEstilo1">
+        <item name="android:background">#7575ea</item>
+        <item name="android:textColor">#fbfbfb</item>
+    </style>
+    <style name="lbnEstilo2" parent="@style/lbnEstilo1">
+        <item name="android:background">#b8f5e9</item>
+    </style>
+
+</resources>
